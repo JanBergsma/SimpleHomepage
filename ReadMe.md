@@ -11,3 +11,13 @@ User stories
 - Use CSS or CSS frameworks to style the card.
 - The page should be responsive on different screen sizes.
 - Deploy the solution and submit Repository URL and Demo URL.
+
+    <!-- Hamburger menu css only: -->
+    <!-- TODO: look at https://youtu.be/XM7sEpl0f7c -->
+
+    <!-- TODO: look at https://github.com/JanBergsma/interior-consultant-master -->
+    <!-- TODO: look at https://janbergsma.github.io/interior-consultant-master/ -->
+    <!-- Simple Dark/Light Mode Theme Toggle (CSS ONLY) | UI Design -->
+    <!-- TODO: look at https://youtu.be/b4FBTr5pSgw -->
+    <!-- Hamburger menu css only: -->
+    <!-- TODO: https://www.youtube.com/watch?v=dAIVbLrAb_U -->

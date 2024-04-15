@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #111729;
+  --secondary-color: #234;
+  --bg-color: #f2f9fefa;
+  --bg-color-menu: #fff;
+  --btn-color: #fff;
+  --btn-bg-c0lor: #2a4dd0;
+  --a-color: #2a4dd0;
+
+  /* Font Sizes */
+  --fs-large: 3.75rem;
+  --fs-big: 1.75rem;
+  --fs-normal: 1rem;
+  --fs-small: 0.875rem;
+
+  /* Company Logo URL */
+  --logo-url: url("../img/alarado-icon-homepage.svg");
+}
