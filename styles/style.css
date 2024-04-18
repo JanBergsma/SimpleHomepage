@@ -1,6 +1,6 @@
 :root {
   --primary-color: #111729;
-  --secondary-color: #234;
+  --secondary-color: #4f5b68;
   --bg-color: #f2f9fefa;
   --btn-color: #fff;
   --btn-bg-color: #2a4dd0;
@@ -18,7 +18,7 @@
 
 .dark {
   --primary-color: #f2f9fefa;
-  --secondary-color: #fff;
+  --secondary-color: #4f5b68;
   --bg-color: #111729;
   --btn-color: #fff;
   --btn-bg-color: #2a4dd0;
@@ -29,7 +29,7 @@
 }
 
 * * * * {
-  /* outline: red solid 1px; */
+  outline: red solid 1px;
 }
 
 html,
@@ -199,4 +199,42 @@ body {
   fill: #f2f9fe;
   transition: all 0.5s ease-in-out;
   color: #f2f9fe;
+}
+
+/* Desktop from 640px */
+@media only screen and (width >= 640px) {
+  .header {
+    padding: 2rem;
+  }
+
+  .header__logo {
+    flex-basis: 20%;
+  }
+
+  .header__nav {
+    width: 100%;
+  }
+
+  .header__menu {
+    position: static;
+    flex-basis: 100%;
+    flex-direction: row;
+    gap: 1rem;
+    width: 80%;
+  }
+
+  #hamburger-menu ~ label {
+    display: none;
+  }
+
+  .header__menu-item {
+    font-size: var(--fs-normal);
+  }
+
+  li:first-child,
+  li:last-child {
+    display: flex;
+    flex-basis: 30%;
+    justify-content: flex-end;
+  }
 }
