@@ -14,10 +14,9 @@ User stories
 
     <!-- Hamburger menu css only: -->
     <!-- TODO: look at https://youtu.be/XM7sEpl0f7c -->
+    <!-- TODO: https://www.youtube.com/watch?v=dAIVbLrAb_U -->
 
     <!-- TODO: look at https://github.com/JanBergsma/interior-consultant-master -->
     <!-- TODO: look at https://janbergsma.github.io/interior-consultant-master/ -->
     <!-- Simple Dark/Light Mode Theme Toggle (CSS ONLY) | UI Design -->
     <!-- TODO: look at https://youtu.be/b4FBTr5pSgw -->
-    <!-- Hamburger menu css only: -->
-    <!-- TODO: https://www.youtube.com/watch?v=dAIVbLrAb_U -->

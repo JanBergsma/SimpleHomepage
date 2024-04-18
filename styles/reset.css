@@ -8,10 +8,11 @@
 }
 
 /*
-  2. Remove default margin
+  2. Remove default margin/ padding
 */
 * {
   margin: 0;
+  padding: 0;
 }
 
 /*
@@ -20,8 +21,8 @@
   4. Improve text rendering
 */
 body {
-  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
 }
 
 /*
