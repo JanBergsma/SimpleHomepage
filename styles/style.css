@@ -339,14 +339,15 @@ body {
 @media only screen and (width >= 1024px) {
   :root {
     /* Font size */
-    --fs-large: 5rem;
+    --fs-large: 4rem;
 
     /* Padding */
-    --padding-inline-header: 4rem;
+    --padding-inline-header: 6rem;
     --padding-block-header: 1rem;
+    --padding-inline-body: 6rem;
 
     /* Margins */
-    --margin-inline-homepage: 0;
+    --margin-inline-homepage: 1rem;
     --margin-block-homepage: 0;
   }
 
